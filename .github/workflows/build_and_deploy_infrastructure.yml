@@ -1,6 +1,5 @@
 name: Build Infrastructure and deploy from Main
 
-
 on:
   push:
     paths:
